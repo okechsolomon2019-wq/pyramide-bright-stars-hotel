@@ -21,11 +21,12 @@ hr {
   border-top: 1px solid #d9c8a6;
 }
 
-.home-image {
+main img {
   display: block;
   width: 100%;
-  max-width: 800px;
-  height: auto;
+  max-width: 600px;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
   margin: 1.5rem auto;
   border-radius: 0.5rem;
 }
