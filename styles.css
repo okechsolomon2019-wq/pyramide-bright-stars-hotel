@@ -1,0 +1,35 @@
+body {
+  color: #24312e;
+  background-color: #fffdf8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+}
+
+h1,
+h2,
+h3 {
+  color: #174d42;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+a {
+  color: #a34e25;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #d9c8a6;
+}
+
+.home-image {
+  display: block;
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  margin: 1.5rem auto;
+  border-radius: 0.5rem;
+}
+
+#welcome {
+  text-align: center;
+}
